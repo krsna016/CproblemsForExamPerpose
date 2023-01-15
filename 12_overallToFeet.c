@@ -1,5 +1,11 @@
-// Write a program to add feet and inches together such that inches
-// are converted into corresponding feet:
+// Write a program to add feet and inches together such that inches are converted into corresponding feet:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,4 +1,4 @@
-// Write a UserDefined function to copy the string : 
+// Write a program in C to "Check for sparse Matrix" : 
 
 /*
 Student name        : Anurag Pareek

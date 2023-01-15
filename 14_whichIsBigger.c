@@ -1,5 +1,11 @@
-// Write a program in C to check whether a number is greater than or smaller
-// than the other number:
+// Write a program in C to check whether a number is greater than or smaller than the other number:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

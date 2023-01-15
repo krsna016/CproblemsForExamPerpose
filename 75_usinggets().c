@@ -1,4 +1,4 @@
-// Write a UserDefined function to copy the string : 
+// Write a program using "gets()" function :
 
 /*
 Student name        : Anurag Pareek

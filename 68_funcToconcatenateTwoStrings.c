@@ -1,4 +1,4 @@
-// Write a UserDefined function to copy the string : 
+// Write a UserDefined function to concatenate the two strings :
 
 /*
 Student name        : Anurag Pareek

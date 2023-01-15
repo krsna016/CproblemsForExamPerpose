@@ -1,5 +1,11 @@
-// Write a program to find the average of marks using
-// return statement : 
+// Write a program to find the average of marks using return statement : 
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 float average(float m1, float m2, float m3, float m4, float m5)
 {
     float average = (m1+m2+m3+m4+m5)/5;

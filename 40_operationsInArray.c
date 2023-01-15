@@ -1,6 +1,11 @@
-// Write a program to find the sum/difference/product
-// and remainder of two arrays and store the result 
-// in third array:
+// Write a program to find the sum/difference/product and remainder of two arrays and store the result in third array:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

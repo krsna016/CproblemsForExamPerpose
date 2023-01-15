@@ -1,5 +1,11 @@
-// Write a program to find volume of a cylinder using 
-// upto two decimal places :
+// Write a program to find volume of a cylinder using upto two decimal places :
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

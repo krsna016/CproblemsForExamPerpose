@@ -1,4 +1,4 @@
-// Write a UserDefined function to copy the string : 
+// Write a program to free the dynamically allocated memory using "free()" <- "Freeing up the memory" :
 
 /*
 Student name        : Anurag Pareek

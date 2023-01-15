@@ -1,5 +1,11 @@
-// Write a program in C to find the second largest
-// number in the given array:
+// Write a program in C to find the second largest number in the given array:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

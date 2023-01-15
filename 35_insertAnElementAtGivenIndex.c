@@ -1,5 +1,11 @@
-// Write a program to insert an element at an given
-// index towards the end:
+// Write a program to insert an element at an given index towards the end:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,4 +1,10 @@
-// Write a program to check for the transpose of a matrix:
+// Write a program to check for the transpose of a matrix :
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
 
 #include <stdio.h>
 #include <stdlib.h>

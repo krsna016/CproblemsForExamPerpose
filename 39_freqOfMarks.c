@@ -1,6 +1,11 @@
-// Write a program in C to take input of the marks of 10 students
-// and count the frequency of students scoring each marks greater than
-// 70:
+// Write a program in C to take input of the marks of 10 students and count the frequency of students scoring each marks greater than 70:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

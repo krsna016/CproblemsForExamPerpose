@@ -1,5 +1,11 @@
-// Write a program in C to find SI using parametrised
-// function:
+// Write a program in C to find SI using parametrised function:
+
+/*
+Student name        : Anurag Pareek
+University Roll no. : 2215000322
+Contact             : anurag020416@gmail.com
+*/
+
 float simple_interest(float p,float r, float t)
 {
     int SI = (p*r*t)/100;

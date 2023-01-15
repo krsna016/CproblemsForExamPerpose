@@ -1,4 +1,4 @@
-// Write a UserDefined function to copy the string : 
+// Write a program to dynamically allocate the memory using malloc():
 
 /*
 Student name        : Anurag Pareek

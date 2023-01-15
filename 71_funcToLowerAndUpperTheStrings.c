@@ -1,4 +1,4 @@
-// Write a UserDefined function to copy the string : 
+// Write a UserDefined function to make string in lower and upper case : 
 
 /*
 Student name        : Anurag Pareek
