@@ -1,6 +1,6 @@
 # Learn C
 
-![Alt Image](https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png)
+![Alt Image](https://www.startertutorials.com/blog/wp-content/uploads/2016/09/C_Plus_Plus_Progrramming_Language.jpg)
 
 Welcome to the "Learn C" repository! This collection of code and solutions is designed to help you learn the C programming language through examples and hands-on exercises. Whether you're a beginner or looking to enhance your C skills, you'll find valuable resources here to guide you on your C programming journey.
 
