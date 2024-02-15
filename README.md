@@ -18,4 +18,4 @@ C is a powerful and foundational programming language that has been the basis fo
 Run this into your command prompt / Terminal to clone the repository:
 
 ```bash
-git clone https://github.com/your-username/learn-c.git
+git clone https://github.com/krsna016/learn-c.git
